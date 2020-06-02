@@ -1,0 +1,61 @@
+﻿  main.cpp
+e:\progi\sfml\sfml\level.h(135): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\level.h(190): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\level.h(191): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+e:\progi\sfml\sfml\level.h(230): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\progi\sfml\sfml\level.h(283): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\progi\sfml\sfml\level.h(304): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+e:\progi\sfml\sfml\level.h(305): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+e:\progi\sfml\sfml\level.h(306): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+e:\progi\sfml\sfml\level.h(307): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+e:\progi\sfml\sfml\main.cpp(31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+e:\progi\sfml\sfml\main.cpp(62): warning C4551: в вызове функции отсутствует список аргументов
+e:\progi\sfml\sfml\main.cpp(64): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(70): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(74): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(96): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(97): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(111): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(114): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(123): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(126): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(154): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(184): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(197): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(198): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(216): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(237): warning C4305: =: усечение из "double" в "float"
+e:\progi\sfml\sfml\main.cpp(299): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+e:\progi\sfml\sfml\main.cpp(423): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+e:\progi\sfml\sfml\main.cpp(484): warning C4305: =: усечение из "double" в "float"
+  Создание кода
+  6 of 1072 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  sfml.vcxproj -> E:\progi\sfml\x64\Release\sfml.exe

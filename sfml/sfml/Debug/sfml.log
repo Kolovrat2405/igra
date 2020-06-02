@@ -1,0 +1,8 @@
+﻿  main.cpp
+f:\progi\sfml\sfml\main.cpp(32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\progi\sfml\sfml\main.cpp(45): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+f:\progi\sfml\sfml\main.cpp(82): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+f:\progi\sfml\sfml\main.cpp(96): warning C4305: =: усечение из "double" в "float"
+f:\progi\sfml\sfml\main.cpp(101): warning C4305: =: усечение из "double" в "float"
+f:\progi\sfml\sfml\main.cpp(108): warning C4305: =: усечение из "double" в "float"
+  sfml.vcxproj -> F:\progi\sfml\Debug\sfml.exe
